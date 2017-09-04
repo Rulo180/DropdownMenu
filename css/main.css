@@ -37,9 +37,11 @@ ul.main-nav a {
     border: 1px solid #CCC;
 }
 
+/*
 ul.main-nav li:first-child{
     font-size: 30px;
 }
+*/
 
 .first-button {
     border-top-left-radius: 5px;
